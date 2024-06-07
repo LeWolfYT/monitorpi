@@ -4,7 +4,7 @@ import psutil as ps
 import time as t
 import json
 
-SERVER_IP = "192.168.1.216" # Your local IP
+SERVER_IP = "192.168.1.219" # Your local IP
 SERVER_PORT = 2005 # Default port is 2005
 REPORT_TEMPS = True # This can be disabled if the OS doesn't support temperatures or errors out when getting the temperature.
 REPORT_FANS = True # Same thing here
